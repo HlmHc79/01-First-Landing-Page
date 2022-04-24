@@ -32,6 +32,11 @@ a {
     filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 1));
 }
 
+img.greet {
+    max-width: 100%;
+    height: auto;
+}
+
 #img-logo {
     height: 20vh;
     text-align:left;
