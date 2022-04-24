@@ -65,8 +65,8 @@ img.greet {
     margin:20px 20px 20px 10px;
     border-radius:15px;
     border:solid 2px #dadec5;
-    padding-right: 5px;
-    padding-left: 5px;
+   
+    border-radius: 15px;
 }
 nav{
     height:7vh;
