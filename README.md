@@ -5,6 +5,11 @@ You can have a look [here, on my Github Page.](https://hlmhc79.github.io/First-L
 To have a look at the code, everything is stored in the [gh-pages branch](https://github.com/HlmHc79/First-Landing-Page/tree/gh-pages).
 
 **_April 24th, 2022:_**
+Version 2
+- The videos open in a pop-up window. Still not what I have in mind but it's a start!
+
+
+**_April 24th, 2022:_**
 Version 1
 
 ### What I'm going to improve as I learn:
