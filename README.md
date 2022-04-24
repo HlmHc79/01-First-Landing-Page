@@ -4,16 +4,20 @@ You can have a look [here, on my Github Page.](https://hlmhc79.github.io/First-L
 
 To have a look at the code, everything is stored in the [gh-pages branch](https://github.com/HlmHc79/First-Landing-Page/tree/gh-pages).
 
-**_April 24th, 2022:_**
+### **_April 24th, 2022:_**
 Version 2
 - The videos open in a pop-up window. Still not what I have in mind but it's a start!
 - Contact form styled
 
+##### What I still want to do:
+- Make the page responsive
+- Modify the popup window
 
-**_April 24th, 2022:_**
+
+### **_April 24th, 2022:_**
 Version 1
 
-### What I'm going to improve as I learn:
+##### What I'm going to improve as I learn:
   - I haven't made this page responsive; for now it looks best on a desktop (1700x780)
   - I want the thumbnails video to open in a popup on the same page
   - The Contact form needs to be styled
