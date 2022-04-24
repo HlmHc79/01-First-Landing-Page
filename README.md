@@ -1,5 +1,6 @@
 # First Landing Page
 I'm learning HTML/CSS and currently building my first landing page.
+You can have a look [here, on my Github Page.](https://hlmhc79.github.io/First-Landing-Page/)
 
 **_April 24th, 2022:_**
 Version 1
