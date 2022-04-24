@@ -7,6 +7,7 @@ To have a look at the code, everything is stored in the [gh-pages branch](https:
 **_April 24th, 2022:_**
 Version 2
 - The videos open in a pop-up window. Still not what I have in mind but it's a start!
+- Contact form styled
 
 
 **_April 24th, 2022:_**
