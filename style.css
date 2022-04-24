@@ -67,7 +67,7 @@ nav{
     height:7vh;
 }
 
-ul {
+ul.menu, ul.socialmedia {
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -126,11 +126,10 @@ footer {
     height:100vh;
 }
 
-
 span {
     display:flex;
     justify-content: flex-end;
-    align-items: flex-end;
+    align-content: flex-end;
 }
 
 h2 {
@@ -158,8 +157,60 @@ h2 {
     height: 100vh;
     background-color: #e7ead6;
 }
+
+.flex-outer {
+    list-style-type: none;
+    padding: 0;
+  }
   
-  .formstyle {
+  .flex-outer {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .flex-outer li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .flex-outer li label {
+    padding: 8px;
+    font-weight: 300;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+  }
+  
+  .flex-outer > li > label {
+    flex: 1 0 120px;
+    max-width: 220px;
+  }
+  
+  .flex-outer > li > label + * {
+    flex: 1 0 220px;
+  }
+  
+  input[type="text"], input[type="email"], textarea{
+    padding: 15px;
+    border: solid 2px #d8dfb5;;
+    border-radius: 5px
+  }
+  
+  .flex-outer li button {
+    margin-left: auto;
+    padding: 8px 16px;
+    border: none;
+    background: #333;
+    color: #f2f2f2;
+    text-transform: uppercase;
+    letter-spacing: .09em;
+    border-radius: 5px
+  }
+
+
+  
+  /* .formstyle {
     list-style-type: none;
   }
   
@@ -185,5 +236,5 @@ input[type="text"], input[type="email"], textarea {
     margin-bottom: 30px;
     width: 300px;
    
-}
+} */
 
