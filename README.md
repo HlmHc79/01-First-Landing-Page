@@ -1,6 +1,6 @@
 # First Landing Page
 I'm learning HTML/CSS and currently building my first landing page.
-You can have a look [here, on my Github Page.](https://hlmhc79.github.io/First-Landing-Page/)
+You can have a look [here, on my Github.io Page.](https://hlmhc79.github.io/01-First-Landing-Page/)
 
 To have a look at the code, everything is stored in the [gh-pages branch](https://github.com/HlmHc79/First-Landing-Page/tree/gh-pages).
 
