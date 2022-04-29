@@ -7,7 +7,7 @@ Version 2
 - The videos open in a pop-up window. Still not what I have in mind but it's a start!
 - Contact form styled
 
-##### What I still want to do:
+##### What I still need to learn:
 - Make the page responsive
 - Modify the popup window
 
